@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web dev
-- 🌱 I’m currently learning React.js, PHP, Symfony
+- 🔭 I’m currently working on Php ERP dev
+- 🌱 I’m currently learning Laravel, PHP
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
